@@ -1,0 +1,6 @@
+# serverless.yml
+# https://serverless-nextjs.com/docs/installation
+# https://github.com/serverless-nextjs/serverless-next.js/releases
+
+myNextApplication:
+  component: "@sls-next/serverless-component@3.7.0" 
