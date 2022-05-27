@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-preact-serverless",
+  "name": "nextjs-preact-typescript-serverless",
   "version": "0.1.0",
   "private": true,
   "scripts": {
